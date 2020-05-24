@@ -18,3 +18,8 @@ html {
   background-image: url('../img/image2.jpg');
   min-height: 400px;
 }
+
+.pimg3 {
+  background-image: url('../img/image3.jpg');
+  min-height: 400px;
+}
