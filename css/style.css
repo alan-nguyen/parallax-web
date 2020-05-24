@@ -8,3 +8,8 @@ html {
   line-height: 1.8em;
   color: #666;
 }
+
+.pimg1 {
+  background-image: url('../img/image1.jpg');
+  min-height: 100%;
+}
